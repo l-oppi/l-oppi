@@ -38,15 +38,14 @@ START_SECTION:activity
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 END_SECTION:activity
--->
-</details>
 
-<details>
-  ###⚡ GitHub Stats
+</details>-->
 
-  <img align="left" alt="l-oppi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l-oppi&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
+###⚡ GitHub Stats
 
-</details>
+<img align="left" alt="l-oppi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l-oppi&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
+
+
 
 [python]: https://python.org/
 [vscode]: https://code.visualstudio.com/
