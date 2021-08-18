@@ -11,6 +11,7 @@
 [<img align="left" alt="l-oppi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="l-oppi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="l-oppi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="l-oppi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -56,3 +57,4 @@ END_SECTION:activity
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/l-oppi
 [facebook]: https://facebook.com/lucas.oppi
+[discord]: https://discordapp.com/users/320311084827410432
