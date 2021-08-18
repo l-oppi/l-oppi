@@ -41,7 +41,7 @@ END_SECTION:activity
 
 </details>-->
 
-###⚡ GitHub Stats
+⚡ GitHub Stats
 
 <img align="left" alt="l-oppi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=l-oppi&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
 
