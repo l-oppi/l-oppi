@@ -4,7 +4,7 @@
 
 - 🔌 I'm currently working with instalation and development of telemetry equipments
 - 📚 I'm currently learning everything that my schedule allows
-- 🎯 Goal 20201: Learn about and contribute to Open Source projects
+- 🎯 Goal 2021: Learn about and contribute to Open Source projects
 
 ### Connect With Me:
 
