@@ -54,7 +54,7 @@ END_SECTION:activity
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://github.com/topics/terminal
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/oppi.lucas
 [linkedin]: https://linkedin.com/in/l-oppi
 [facebook]: https://facebook.com/lucas.oppi
 [discord]: https://discordapp.com/users/320311084827410432
