@@ -1,10 +1,10 @@
 ### Hi there, i'm Lucas
 
-## I'm an Electrical Engineering Student
+## I'm an Electrical Engineer
 
 - 🔌 I'm currently working with instalation and development of telemetry equipments
 - 📚 I'm currently trying to learn everything that my schedule allows 😫
-- 🎯 Goal 2022: Learn about and contribute to Open Source projects
+- 🎯 Goal 2023: Learn about and contribute to Open Source projects
 
 ### Languages and Tools:
 
