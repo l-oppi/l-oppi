@@ -2,9 +2,9 @@
 
 ## I'm an Electrical Engineer
 
-- 🔌 I'm currently working with instalation and development of telemetry equipments
-- 📚 I'm currently trying to learn everything that my schedule allows 😫
-- 🎯 Goal 2023: Learn about and contribute to Open Source projects
+- 🔌 Currently working with instalation and development of telemetry equipments
+- 📚 Also trying to learn everything that my schedule allows 😫
+- 🎯 Goal 2024: Learn about and maybe contribute to Open Source projects
 
 ### Languages and Tools:
 
